@@ -21,9 +21,3 @@
 
 ## Community & Credits
 If your contribution gets merged, you'll be added to the contributors list! 
-
-## Need help?
-
-Join the Discord server below 
-
-https://discord.gg/px7MGB2vhX
